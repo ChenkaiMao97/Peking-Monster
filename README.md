@@ -13,7 +13,7 @@ The game is inspired by the classic Pokemon game. The map layout, monster image 
 </p>
 
 ----------------------------------------------------
-# Senerio
+# Scenario
 The story is designed to happen in Peking University, where you use your monsters (which is named after the courses you're taking) to fight the wild monsters (some problems or puzzles) and your enemies (other students). The goal for the game is to graduate after defeating the professsors, but due to the limited time we didn't reach that point. Other designs like adding various modules like exercising, studying, food etc. were under consideration but weren't added either. 
 <p align="center">
 <img src="./screenshots/dorm.png" width="600"/>
