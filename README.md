@@ -1,5 +1,5 @@
 # Peking-Monster
-This is a 2D RPG game written in C++ using Qt framework. It is a final project done by four students for the course "Intro to C++" at Peking University during 09/01/2016 and 01/17/2017.
+This is a 2D RPG game written in C++ using [Qt](https://www.qt.io/) framework. It is a final project done by four students for the course "Intro to C++" at Peking University during 09/01/2016 and 01/17/2017.
 
 
 ----------------------------------------------------
